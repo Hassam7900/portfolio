@@ -377,7 +377,7 @@ img {
 
 
 .banner-area{
-    background-image: url(../images/home/2.jpg); /*--edit image--*/
+    background-image: url(../images/Home/2.jpg); /*--edit image--*/
     background-position: center;
     background-size:cover;
     position: relative;
